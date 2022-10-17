@@ -154,6 +154,7 @@ function ponerVerbo() {
     }
 
 }
+//Funcion de repetir el audio
 function audiorepeat(){
     showAudio.play();
 }
